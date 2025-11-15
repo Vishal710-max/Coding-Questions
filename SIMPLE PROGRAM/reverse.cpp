@@ -15,4 +15,8 @@ int main ()
         }
     cout<<"\nReversed no:"<<s;
     return (0);
+
 }
+
+O/P : n=345
+      Reversed no: 543

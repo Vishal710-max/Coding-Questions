@@ -28,3 +28,6 @@ int main ()
 O/P : n=121 
       True
     
+      n=122
+      False
+    

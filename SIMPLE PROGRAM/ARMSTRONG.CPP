@@ -26,3 +26,6 @@ int main ()
 }
 //o/p : n=153 
         True
+
+        n=155
+        False

@@ -96,9 +96,7 @@ bash
 g++ filename.cpp -o output
 Run the program:
 
-bash
- 
-./output
+
 📚 Learning Goals
 By completing this repository, you’ll be able to:
 

@@ -20,15 +20,6 @@ It’s ideal for:
 📁 Cpp-Coding-Questions/
 │
 ├── 📂 Basic_Concepts/
-│ ├── variables_and_datatypes.cpp
-│ ├── input_output.cpp
-│ ├── control_statements.cpp
-│ ├── loops.cpp
-│ ├── functions.cpp
-│ ├── arrays_and_strings.cpp
-│ ├── pointers_basics.cpp
-│ ├── structures_and_classes.cpp
-│
 ├── 📂 Simple_Problems/
 │ ├── sum_of_two_numbers.cpp
 │ ├── reverse_a_number.cpp

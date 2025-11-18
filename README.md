@@ -57,11 +57,11 @@ It’s ideal for:
 ## ⚙️ How to Run
 
 1. Clone this repository:
-   git clone https://github.com/<your-username>/Cpp-Coding-Questions.git
+   git clone https://github.com/<your-username>/ Coding-Questions.git
 Navigate to the directory:
 
 
-cd Cpp-Coding-Questions
+cd  Coding-Questions
 Compile any C++ file:
 
 bash

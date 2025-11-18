@@ -21,14 +21,6 @@ It’s ideal for:
 │
 ├── 📂 Basic_Concepts/
 ├── 📂 Simple_Problems/
-│ ├── sum_of_two_numbers.cpp
-│ ├── reverse_a_number.cpp
-│ ├── check_prime_number.cpp
-│ ├── palindrome_check.cpp
-│ ├── factorial_using_loop.cpp
-│ ├── fibonacci_series.cpp
-│ ├── armstrong_number.cpp
-│
 ├── 📂 Intermediate_Problems/
 │ ├── binary_search.cpp
 │ ├── linear_search.cpp
